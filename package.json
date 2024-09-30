@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "allure-codeceptjs": "^3.0.2",
-    "allure-js-commons": "^3.0.2",
+    "allure-codeceptjs": "^3.0.3",
+    "allure-js-commons": "^3.0.3",
     "codeceptjs": "^3.6.7",
     "debug": "^4.3.7",
     "mocha": "^10.7.3",
