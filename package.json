@@ -10,12 +10,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "allure-codeceptjs": "^3.0.3",
-    "allure-js-commons": "^3.0.3",
+    "allure-codeceptjs": "^3.0.6",
+    "allure-js-commons": "^3.0.6",
     "codeceptjs": "^3.6.7",
     "debug": "^4.3.7",
-    "mocha": "^10.7.3",
-    "react-native": "^0.75.3"
+    "mocha": "^10.8.2",
+    "react-native": "^0.76.1"
   },
-  "packageManager": "yarn@4.5.0"
+  "packageManager": "yarn@4.5.1"
 }
